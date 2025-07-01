@@ -1,0 +1,24 @@
+// 变量声明
+let name = "李四";
+let age = 25;
+
+// 函数定义
+function greet(personName) {
+    return `你好，${personName}！`;
+}
+
+// 条件判断
+if (age >= 18) {
+    console.log(`${name} 已经成年了。`);
+} else {
+    console.log(`${name} 还未成年。`);
+}
+
+// 数组操作
+const numbers = [1, 2, 3, 4, 5];
+const sum = numbers.reduce((acc, num) => acc + num, 0);
+console.log(`数组元素的和是：${sum}`);
+
+// 调用函数
+const greeting = greet(name);
+console.log(greeting);
