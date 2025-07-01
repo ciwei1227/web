@@ -1,0 +1,43 @@
+// 定义一个变量
+let x = 10;
+// 使用 if 语句进行条件判断
+if (x > 5) {
+    console.log("x 大于 5");
+}
+
+class Car {
+  constructor(make, model, year) {
+    this.make = make;
+    this.model = model;
+    this.year = year;
+  }
+
+  // 方法定义在类的原型上
+  start() {
+    console.log("Engine started!");
+  }
+
+  displayInfo() {
+    console.log(`Make: ${this.make}, Model: ${this.model}, Year: ${this.year}`);
+  }
+}
+
+let anotherCar = new Car("Ford", "Mustang", 2023);
+anotherCar.displayInfo(); // 输出: Make: Ford, Model: Mustang, Year: 2023
+anotherCar.start();       // 输出: Engine started!
+
+//回调函数练习
+console.log('111111')
+
+setTimeout(function(){
+    console.log('22222')
+  },2888)
+
+console.log('333333')
+
+myDom =document.GetElementByid('demo')
+console.log(myDom)
+myDom.innerHTML ='这是从脚本动态更改的内容'
+
+import image from "next/image"
+import styles  from ".page."
