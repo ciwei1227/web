@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "title": "爱纯的文学梦想",
+    "description": "重构1950年代济州岛少女的文学网站，展现叛逆文学少女的内心世界。通过 iframe 嵌入诗歌朗读功能，让文字在网页中流动如海风。",
+    "link": "/practice/embed-demo",
+    "imageUrl": "/practice/images/01.webp",
+    "tags": ["文学", "iframe", "1950年代", "济州岛"]
+  },
+  {
+    "id": 2,
+    "title": "鱼摊家的温暖守护",
+    "description": "展现宽植在自家鱼摊默默守护爱纯的日常。诚实寡言的少年，用最朴实的方式表达着内心深处的情感，每一次相遇都充满着青春的悸动。",
+    "link": "/practice/my-app",
+    "imageUrl": "/practice/images/02.webp",
+    "tags": ["青春", "守护", "React", "温暖"]
+  },
+  {
+    "id": 3,
+    "title": "海女妈妈的潜水日记",
+    "description": "用CSS构建海女妈妈的潜水记录页面，展现她在海底寻找珍珠的艰辛。深蓝色调和流体布局模拟海洋的波澜，致敬每一位坚韧的海女。",
+    "link": "/practice/03-css-01",
+    "imageUrl": "/practice/images/03.webp",
+    "tags": ["CSS", "海女", "海洋", "珍珠"]
+  },
+  {
+    "id": 4,
+    "title": "济州岛的苦甜人生",
+    "description": "用CSS展现济州岛人民苦尽甘来的人生哲理。如同柑橘从苦涩到甘甜的转变，爱纯和宽植的爱情也在艰难中绽放出最美的光芒。",
+    "link": "/practice/03-css-02",
+    "imageUrl": "/practice/images/04.webp",
+    "tags": ["CSS Grid", "人生", "苦甜", "哲理"]
+  },
+  {
+    "id": 5,
+    "title": "爱纯的书桌布局",
+    "description": "重现爱纯房间里的书桌场景，使用CSS定位技术精确布局书籍、信件和写作工具。每个元素的位置都诉说着她对文学的热爱和对未来的憧憬。",
+    "link": "/practice/04-css-01",
+    "imageUrl": "/practice/images/05.webp",
+    "tags": ["CSS定位", "书桌", "文学", "布局"]
+  },
+  {
+    "id": 6,
+    "title": "济州岛灯塔的夜晚",
+    "description": "用绝对定位创建济州岛海边灯塔的夜景，星空下的灯塔为出海的渔民指引方向。就像宽植对爱纯的守护，永远照亮彼此的前路。",
+    "link": "/practice/04-css-02",
+    "imageUrl": "/practice/images/06.webp",
+    "tags": ["绝对定位", "灯塔", "夜景", "守护"]
+  },
+  {
+    "id": 7,
+    "title": "叔叔家的传统韩屋",
+    "description": "还原爱纯寄养的叔叔家韩屋布局，展现1950年代传统建筑的魅力。相对定位的运用让每个房间都有它的故事，虽然充满挑战但也见证了成长。",
+    "link": "/practice/04-css-02-relative",
+    "imageUrl": "/practice/images/07.webp",
+    "tags": ["相对定位", "韩屋", "传统", "家庭"]
+  },
+  {
+    "id": 8,
+    "title": "济州岛民俗新闻",
+    "description": "制作1950年代济州岛的民俗新闻页面，报道海女文化、柑橘丰收和传统节庆。复古的排版设计让人仿佛穿越回那个纯朴的年代。",
+    "link": "/practice/05-news01",
+    "imageUrl": "/practice/images/08.webp",
+    "tags": ["民俗", "新闻", "复古", "文化"]
+  },
+  {
+    "id": 9,
+    "title": "爱纯与宽植的情书",
+    "description": "创建互动式情书展示页面，用JavaScript实现书信的翻页效果。每一封信都记录着两人从青梅竹马到相知相恋的美好时光。",
+    "link": "/practice/06-news01",
+    "imageUrl": "/practice/images/09.webp",
+    "tags": ["情书", "JavaScript", "爱情", "互动"]
+  },
+  {
+    "id": 10,
+    "title": "私奔后的现实考验",
+    "description": "展现爱纯和宽植私奔后面临的现实困境，婆家的刁难和经济的窘迫。通过动态效果模拟生活的波折起伏，但相爱的二人相互扶持，努力生活。",
+    "link": "/practice/06-news02",
+    "imageUrl": "/practice/images/10.webp",
+    "tags": ["现实", "考验", "扶持", "生活"]
+  },
+  {
+    "id": 11,
+    "title": "三代女性的传承",
+    "description": "用Promise展现三代女性的故事传承，从海女奶奶到爱纯再到女儿金明。每一代女性都在为下一代铺路，让女儿走出济州岛成为职场女性。",
+    "link": "/practice/07-async-01",
+    "imageUrl": "/practice/images/11.webp",
+    "tags": ["传承", "三代", "女性", "成长"]
+  },
+  {
+    "id": 12,
+    "title": "济州岛天气预报",
+    "description": "使用Fetch API获取济州岛的天气数据，为海女的出海提供参考。就像爱纯关心妈妈的安危，每一次数据请求都承载着关爱。",
+    "link": "/practice/07-async-02",
+    "imageUrl": "/practice/images/12.webp",
+    "tags": ["Fetch API", "天气", "关爱", "数据"]
+  },
+  {
+    "id": 13,
+    "title": "初见济州岛",
+    "description": "重现第一次踏上济州岛的美好印象，用最纯粹的HTML展现岛屿的自然美景。就像初次相遇的爱纯和宽植，简单却充满无限可能。",
+    "link": "/practice/index",
+    "imageUrl": "/practice/images/13.webp",
+    "tags": ["HTML", "初遇", "美景", "纯真"]
+  }
+] 
