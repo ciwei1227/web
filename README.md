@@ -104,3 +104,4 @@ src/app/
 *"从海女的坚韧到柑橘的甘甜，每一行代码都承载着成长的故事"*
 ![屏幕截图 2025-06-30 112957](https://github.com/user-attachments/assets/7c387b61-b8e1-4828-a7bd-2b622e0f87c9)
 ![屏幕截图 2025-06-30 113029](https://github.com/user-attachments/assets/04b2f600-0203-479d-8962-7109b8adf9c2)
+![屏幕截图 2025-06-30 113145](https://github.com/user-attachments/assets/074a2fb6-b1d9-49cc-b6f2-13c6e9bc99d0)
