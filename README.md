@@ -102,6 +102,14 @@ src/app/
 本项目向韩剧《苦尽柑来遇见你》及其创作团队致敬，感谢他们创造的美好故事为我们的学习之旅带来灵感。
 
 *"从海女的坚韧到柑橘的甘甜，每一行代码都承载着成长的故事"*
+作品截图
 ![屏幕截图 2025-06-30 112957](https://github.com/user-attachments/assets/7c387b61-b8e1-4828-a7bd-2b622e0f87c9)
 ![屏幕截图 2025-06-30 113029](https://github.com/user-attachments/assets/04b2f600-0203-479d-8962-7109b8adf9c2)
 ![屏幕截图 2025-06-30 113145](https://github.com/user-attachments/assets/074a2fb6-b1d9-49cc-b6f2-13c6e9bc99d0)
+具体练习截图
+![屏幕截图 2025-06-30 113243](https://github.com/user-attachments/assets/0f5b1bbf-cc02-499f-8647-2c4fb1bdac74)
+QAnything接入截图
+![微信图片_20250706215057](https://github.com/user-attachments/assets/a1ee78ae-adcb-4025-ba22-3d701d554c52)
+![屏幕截图 2025-07-06 215051](https://github.com/user-attachments/assets/6a4f99fb-a91c-493b-a23a-a114b1afcc65)
+近七日代码编写时长wakatime
+![屏幕截图 2025-07-06 213820](https://github.com/user-attachments/assets/fbca9d19-7d64-4c9b-83f3-4bd46d7c997c)
